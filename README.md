@@ -7,3 +7,8 @@ This project is under ECIE 4399 Module. The project aims to implement a deep lea
 Given the current situation, wearing face masks in public areas is paramount to help contain the spread of the virus. 
 
 The code used for this project is sourced from many open source projects availble in github. The data to train were obtained from publicy available datasets and from platforms such as youtube  and other video sharing websites. 
+
+## Methodology
+
+
+## Discussion
